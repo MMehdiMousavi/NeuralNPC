@@ -1,1 +1,1 @@
-# NeuralNPC
+# NeuralNPC Neural NPC
